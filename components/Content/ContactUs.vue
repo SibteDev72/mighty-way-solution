@@ -4,7 +4,7 @@
     class="w-full text-white py-[8rem] px-[3rem] min-h-[100vh] bg-bgPrimary flex gap-[5rem] flex-col justify-between items-center font-sans"
   >
     <div
-      class="grid gap-[3rem] grid-cols-2 place-items-baseline md:grid-cols-3 lg:grid-cols-4"
+      class="grid gap-[3rem] grid-cols-1 place-items-baseline md:grid-cols-3 lg:grid-cols-4"
     >
       <div class="flex flex-col items-start gap-3">
         <p class="font-extrabold text-xl flex gap-2">
