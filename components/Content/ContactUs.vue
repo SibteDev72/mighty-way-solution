@@ -4,33 +4,37 @@
     class="w-full text-white py-[8rem] px-[3rem] min-h-[100vh] bg-bgPrimary flex gap-[5rem] flex-col justify-between items-center font-sans"
   >
     <div
-      class="grid gap-[3rem] grid-cols-2 place-items-center md:grid-cols-3 lg:grid-cols-4"
+      class="grid gap-[3rem] grid-cols-2 place-items-baseline md:grid-cols-3 lg:grid-cols-4"
     >
-      <div class="flex flex-col gap-3">
+      <div class="flex flex-col items-start gap-3">
         <p class="font-extrabold text-xl flex gap-2">
-          Mighty Way Solution
-          <!-- <img class="w-[30px]" src="/new/images/soup.png" /> -->
+          MIGHTY WAY SOLUTION
+          <img class="w-[40px]" src="/new/images/icons/logo.jpg" />
         </p>
         <p class="font-bold w-[10rem]">Address</p>
         <div class="flex flex-row gap-3">
-          <div
+          <a
+            target="_blank"
+            href="https://www.instagram.com/mightywaysol/"
             class="w-[45px] h-[45px] bg-white rounded-full flex justify-center items-center"
           >
             <img class="w-[20px]" src="/new/images/icons/instagram.png" />
-          </div>
-          <div
+          </a>
+          <a
+            target="_blank"
+            href="https://www.facebook.com/mightywaysol/"
             class="w-[45px] h-[45px] bg-white rounded-full flex justify-center items-center"
           >
             <img class="w-[20px]" src="/new/images/icons/facebook.png" />
-          </div>
-          <div
+          </a>
+          <!-- <div
             class="w-[45px] h-[45px] bg-white rounded-full flex justify-center items-center"
           >
             <img class="w-[20px]" src="/new/images/icons/twitter.png" />
-          </div>
+          </div> -->
         </div>
       </div>
-      <div class="relative flex flex-col gap-4">
+      <div class="relative flex flex-col items-start">
         <div
           id="dotFooter"
           class="absolute bg-pink-600 top-[-1rem] left-[-1rem] w-[40px] h-[40px] rounded-full bg-buttonPrimary"

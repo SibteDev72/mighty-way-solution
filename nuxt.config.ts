@@ -5,8 +5,15 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: "Mighty Way",
+      title: "Mighty Way Solution",
       meta: [{ name: "description", content: "Everything about - Nuxt-3" }],
+      link: [
+        {
+          rel: "icon",
+          type: "image/x-icon",
+          href: "/new/images/icons/logo.jpg",
+        },
+      ],
     },
   },
 

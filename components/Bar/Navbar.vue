@@ -2,9 +2,13 @@
   <div
     class="px-[2.5rem] bg-bgPrimary text-gray-300 shadow-md shadow-pink-600 fixed z-[100] top-0 left-0 w-full h-[4rem] flex flex-row justify-between items-center"
   >
-    <NuxtLink to="/#home" class="flex gap-2 flex-row">
-      <p class="font-sans font-extrabold text-lg">Mighty Way Solutions</p>
-      <!-- <img class="w-[25px] h-auto" src="#" alt="logo_here" /> -->
+    <NuxtLink to="/#home" class="flex gap-4 flex-row">
+      <p class="font-sans font-extrabold text-lg">MIGHTY WAY SOLUTION</p>
+      <img
+        class="w-[30px] h-auto"
+        src="/new/images/icons/logo.jpg"
+        alt="logo_here"
+      />
     </NuxtLink>
     <div class="flex-1 flex justify-center"></div>
     <div
