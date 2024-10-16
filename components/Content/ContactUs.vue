@@ -11,7 +11,9 @@
           MIGHTY WAY SOLUTION
           <img class="w-[40px]" src="/new/images/icons/logo.jpg" />
         </p>
-        <p class="font-bold w-[10rem]">Address</p>
+        <p class="font-bold w-[10rem]">
+          11133 SHADY TRAIL STE 250, DALLAS, TX 75229
+        </p>
         <div class="flex flex-row gap-3">
           <a
             target="_blank"
@@ -72,8 +74,8 @@
           class="absolute bg-pink-600 top-[-2rem] right-[-1rem] w-[65px] h-[65px] rounded-full bg-buttonPrimary"
         />
         <div>
-          <p class="font-bold text-lg">Phone Number</p>
-          <p class="font-bold text-lg">email</p>
+          <p class="font-bold text-lg">+14698989505</p>
+          <p class="font-bold text-lg">mightywaysolution@gmail.com</p>
         </div>
       </div>
     </div>
