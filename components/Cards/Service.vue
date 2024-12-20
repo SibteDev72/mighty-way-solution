@@ -13,7 +13,7 @@
 
 <script setup lang="ts">
 import VanillaTilt from "vanilla-tilt";
-import type { serviceInterface } from "~/types/Services";
+import type { serviceInterface } from "~/types/Content";
 
 defineProps<{
   details: serviceInterface;

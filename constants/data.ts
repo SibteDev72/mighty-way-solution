@@ -34,11 +34,6 @@ export const serviceItems: serviceInterface[] = [
     name: "information technology",
   },
   {
-    id: 2,
-    icon: "banking.png",
-    name: "banking and finance",
-  },
-  {
     id: 3,
     icon: "healthcare.png",
     name: "healthcare",
